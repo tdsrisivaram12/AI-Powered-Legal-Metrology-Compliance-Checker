@@ -1,0 +1,15 @@
+LEGAL METROLOGY COMPLIANCE REPORT
+==================================
+
+Inspection ID : {inspection_id}
+Product       : {product_name}
+Officer       : {officer_name}
+Generated     : {generated_at}
+
+DECISION: {decision}   SCORE: {score}/100
+
+FINDINGS ({finding_count})
+----------------------------------
+{findings_block}
+
+--- End of report ---
